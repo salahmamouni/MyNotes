@@ -1,2 +1,2 @@
 # MyNotes
-help you make notes in google chrome
+Making online notes made easy
